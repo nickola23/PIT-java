@@ -1,0 +1,8 @@
+package osnovni;
+
+public class Bicikla extends Vozilo{
+	public Bicikla() {
+		super();
+		System.out.println("Formiran je objekat klase Bicikla");
+	}
+}

@@ -1,0 +1,6 @@
+package osnovni;
+
+public class Vozilo {
+	int brzina = 100;
+	
+}

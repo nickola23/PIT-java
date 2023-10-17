@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/Vezba1_1/src/com/nikola/Vezba1_1/Main.java"/>
+        <listEntry value="/Vezba2_1/src/com/nikola/Main.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.nikola.Vezba1_1.Main"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Vezba1_1"/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Vezba1_1"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.nikola.Main"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Vezba2_1"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Vezba2_1"/>
 </launchConfiguration>

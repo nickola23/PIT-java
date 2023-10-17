@@ -1,8 +1,0 @@
-package osnovni;
-
-public class Bicikla extends Vozilo{
-	int brzina = 50;
-	public void ispis() {
-		System.out.print(super.brzina);
-	}
-}

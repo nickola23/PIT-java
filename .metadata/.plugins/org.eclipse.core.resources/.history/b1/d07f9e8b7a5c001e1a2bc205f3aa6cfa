@@ -1,7 +1,0 @@
-package osnovni;
-
-public class Vozilo {
-	public Vozilo() {
-		System.out.println("Formiran je objekat klase Vozilo");
-	}
-}

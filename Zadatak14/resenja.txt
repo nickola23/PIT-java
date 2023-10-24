@@ -1,0 +1,6 @@
+Pravougaonik [a = 2.5, b = 3.0]
+Povrsina je 7.5, a obim je 11.0
+Pravougaonik [a = 4.0, b = 5.2]
+Povrsina je 20.8, a obim je 18.4
+Pravougaonik [a = 1.0, b = 1.0]
+Povrsina je 1.0, a obim je 4.0
